@@ -23,7 +23,7 @@ body {
     border-radius: 10px; 
 }
 
-header {
+header.box {
     grid-area: header;
     display: flex;
     align-items: center;
@@ -34,7 +34,7 @@ header {
     border-radius: 10px; 
 }
 
-header h1 {
+header.box h1 {
     background: none;
     margin: 0;
     font-size: 28px;
