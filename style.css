@@ -28,7 +28,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #1f5d4a;
+    background: #0d3b2f; 
     color: #ffffff;
     padding: 20px;
     border-radius: 10px; 
@@ -84,6 +84,9 @@ header nav ul li a:hover {
     background: #d7efe8;
     text-align: center;
     font-weight: bold;
+    padding: 20px; 
+    border: 1px solid #5aa89a;
+    border-radius: 10px;
 }
 
 footer {
@@ -107,4 +110,3 @@ footer {
             "footer";
     }
 }
-
