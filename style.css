@@ -23,7 +23,7 @@ body {
     border-radius: 10px; 
 }
 
-header.box {
+header {
     grid-area: header;
     display: flex;
     align-items: center;
