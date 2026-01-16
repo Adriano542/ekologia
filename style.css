@@ -35,6 +35,7 @@ header {
 }
 
 header h1 {
+    background: #1f5d4a;
     margin: 0;
     font-size: 28px;
 }
